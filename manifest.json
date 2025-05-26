@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
+    "name": "LAB8_STARTER",
+    "short_name": "Ben",
+    "description": "PWA",
     "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "display": "fullscreen",
+    "background_color": "#f0fbff",
+    "theme_color": "#f0fbff",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
