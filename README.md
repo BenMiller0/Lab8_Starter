@@ -7,4 +7,4 @@ will just fail to register in the background without breaking the core functiona
 the user loses network connection it can use the cached requests to still provide the data. If the browser 
 does not support service workers it will still not completely break a site. 
 
-[picture](pwa.png)
+![picture](pwa.png)
